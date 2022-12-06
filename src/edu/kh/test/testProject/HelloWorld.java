@@ -58,6 +58,7 @@ public class HelloWorld {
 		System.out.println(11&5);
 		System.out.println(1==1);
 		System.out.println(1*2 == 2);
+		System.out.println("너 나 보고 있니?");
 		
 		
 		
